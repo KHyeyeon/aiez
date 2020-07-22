@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aiez/static/css/main.1122ef28.chunk.css",
+    "main.js": "/aiez/static/js/main.a9d72069.chunk.js",
+    "main.js.map": "/aiez/static/js/main.a9d72069.chunk.js.map",
+    "runtime-main.js": "/aiez/static/js/runtime-main.493f61e0.js",
+    "runtime-main.js.map": "/aiez/static/js/runtime-main.493f61e0.js.map",
+    "static/js/2.01551844.chunk.js": "/aiez/static/js/2.01551844.chunk.js",
+    "static/js/2.01551844.chunk.js.map": "/aiez/static/js/2.01551844.chunk.js.map",
+    "index.html": "/aiez/index.html",
+    "precache-manifest.58c9db7b14bf070325ee36e9fbcd22ae.js": "/aiez/precache-manifest.58c9db7b14bf070325ee36e9fbcd22ae.js",
+    "service-worker.js": "/aiez/service-worker.js",
+    "static/css/main.1122ef28.chunk.css.map": "/aiez/static/css/main.1122ef28.chunk.css.map",
+    "static/js/2.01551844.chunk.js.LICENSE.txt": "/aiez/static/js/2.01551844.chunk.js.LICENSE.txt",
+    "static/media/computingCloud.png": "/aiez/static/media/computingCloud.72f6cfe0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.493f61e0.js",
+    "static/js/2.01551844.chunk.js",
+    "static/css/main.1122ef28.chunk.css",
+    "static/js/main.a9d72069.chunk.js"
+  ]
+}
