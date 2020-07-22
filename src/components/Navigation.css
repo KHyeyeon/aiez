@@ -1,0 +1,17 @@
+@import "reset.css";
+
+.nav {
+  width: 100%;
+  padding: auto 120px;
+  height: 150px;
+  display: flex;
+  align-items: center; /*위에 붙이기*/
+  justify-content: space-around;
+  background-color: white;
+}
+
+.nav_item {
+  font-size: 35px;
+  color: black;
+  text-underline-offset: f;
+}
